@@ -8,6 +8,10 @@ _An open source project by 404answernotfound_
 **npackr** is a nodejs CLI utility to make your package.json reading faster by just typing ```npackr``` in your CLI.
 
 ## Usage
+ 
+<img width="240" align="center" src="https://raw.githubusercontent.com/404answernotfound/npackr/main/public/npackr.png">
+
+<img width="240" align="center" src="https://raw.githubusercontent.com/404answernotfound/npackr/main/public/stdout.png">
 
  ``` $ npack```
 
