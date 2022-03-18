@@ -1,5 +1,5 @@
 {
-  "name": "npack",
+  "name": "npackr",
   "version": "1.0.0",
   "description": "A nodejs CLI app to read package.json scripts faster",
   "keywords": [],
