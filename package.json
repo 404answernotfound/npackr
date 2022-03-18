@@ -1,0 +1,20 @@
+{
+  "name": "npack",
+  "version": "1.0.0",
+  "description": "A nodejs CLI app to read package.json scripts faster",
+  "keywords": [],
+  "author": "Lorenzo Pieri - 404answernotfound (https://404answernotfound.eu)",
+  "license": "MIT",
+  "bin": "lib/cli.js",
+  "main": "lib/cli.js",
+  "dependencies": {
+    "inquirer": "^8.2.1",
+    "meow": "^3.7.0"
+  },
+  "devDependencies": {
+    "lec": "^1.0.1"
+  },
+  "scripts": {
+    "prepare": "lec lib/cli.js -c LF"
+  }
+}
