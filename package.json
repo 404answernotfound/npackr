@@ -1,8 +1,12 @@
 {
   "name": "npackr",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "A nodejs CLI app to read package.json scripts faster",
-  "keywords": [],
+  "keywords": [
+    "package",
+    "utils",
+    "development"
+  ],
   "author": "Lorenzo Pieri - 404answernotfound (https://404answernotfound.eu)",
   "license": "MIT",
   "bin": "lib/cli.js",
@@ -15,6 +19,8 @@
     "lec": "^1.0.1"
   },
   "scripts": {
-    "prepare": "lec lib/cli.js -c LF"
+    "echo": "echo npackr",
+    "publish": "npm publish",
+    "test": "npm run test"
   }
 }
