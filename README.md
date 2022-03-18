@@ -1,9 +1,14 @@
 
 # npackr, a nodejs package.json reader
 
-npackr is a nodejs CLI utility to make your package.json reading faster by just typing ```npackr``` in your CLI.
+ <img width="240" align="center" style="display: inline-block; border: 2px solid green; border-radius: 50%" src="https://404answernotfound.eu/_next/image?url=%2Fstatic%2Fimages%2F404answernotfounddarktheme.png&w=128&q=75">
 
-Usage
+_An open source project by 404answernotfound_
+
+**npackr** is a nodejs CLI utility to make your package.json reading faster by just typing ```npackr``` in your CLI.
+
+## Usage
+
  ``` $ npack```
 
 Options

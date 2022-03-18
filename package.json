@@ -1,6 +1,6 @@
 {
   "name": "npackr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A nodejs CLI app to read package.json scripts faster",
   "keywords": [],
   "author": "Lorenzo Pieri - 404answernotfound (https://404answernotfound.eu)",
