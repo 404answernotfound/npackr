@@ -1,7 +1,11 @@
 {
   "name": "npackr",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A nodejs CLI app to read package.json scripts faster",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/404answernotfound/npackr.git"
+  },
   "keywords": [
     "package",
     "utils",
@@ -22,5 +26,9 @@
     "echo": "echo npackr",
     "publish": "npm publish",
     "test": "npm run test"
-  }
+  },
+  "engines": {
+    "node": "^12.20.0 || >=14"
+  },
+  "support": true
 }

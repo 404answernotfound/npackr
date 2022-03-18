@@ -9,9 +9,9 @@ _An open source project by 404answernotfound_
 
 ## Usage
  
-<img width="240" align="center" src="https://raw.githubusercontent.com/404answernotfound/npackr/main/public/npackr.png">
+<img width="400" align="center" src="https://raw.githubusercontent.com/404answernotfound/npackr/main/public/npackr.png">
 
-<img width="240" align="center" src="https://raw.githubusercontent.com/404answernotfound/npackr/main/public/stdout.png">
+<img width="400" align="center" src="https://raw.githubusercontent.com/404answernotfound/npackr/main/public/stdout.png">
 
  ``` $ npack```
 
