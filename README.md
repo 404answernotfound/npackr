@@ -16,13 +16,13 @@ _An open source project by 404answernotfound_
  ```$ npackr```
 
 Options
- ``` --error  ```Shows stderr from command [Default: false]
- ```--help ```  Shows help commands
- ```--read ``` Shows commands without running them
- ```--read --explain``` Shows commands without running them and with command description
+ ``` --error  ```Shows stderr from command [Default: false]  
+ ```--help ```  Shows help commands  
+ ```--read ``` Shows commands without running them  
+ ```--read --explain``` Shows commands without running them and with command description  
 
 Inputs
-```$ npackr config ```Starts a new configuration to change entryfile and entry command
+```$ npackr config ```Starts a new configuration to change entryfile and entry command  
 
 Examples
   ```$ npackr [config [--error, --help]]```
