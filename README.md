@@ -27,15 +27,15 @@ Inputs
 Examples
   ```$ npackr [config [--error, --help]]```
 
-## Acknowledgements
+### Acknowledgements
 
  - [404answernotfound.eu](https://404answernotfound.eu)
 
-## Authors
+### Authors
 
 - [@404answernotfound](https://github.com/404answernotfound)
 
 
-## License
+### License
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
