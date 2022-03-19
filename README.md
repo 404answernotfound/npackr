@@ -15,7 +15,7 @@ _An open source project by 404answernotfound_
 
  ```$ npackr```
 
-Options
+### Options  
  ``` --error  ```Shows stderr from command [Default: false]  
  ```--help ```  Shows help commands  
  ```--read ``` Shows commands without running them  
