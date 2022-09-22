@@ -1,6 +1,6 @@
 {
   "name": "npackr",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "A nodejs CLI app to read package.json scripts faster",
   "repository": {
     "type": "git",
